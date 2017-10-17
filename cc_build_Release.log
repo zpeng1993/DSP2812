@@ -1,0 +1,21 @@
+----------------------------  Motor.PJT - Release  ----------------------------
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_DefaultIsr.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_Ev.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_GlobalVariableDefs.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_Gpio.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_PieCtrl.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_PieVect.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "DSP28_SysCtrl.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -q -fr"D:/Debug/CODE-QQ2812/EX15_Motor/Release" -d"LARGE_MODEL" -ml -v28 -@"Release.lkf" "main.c"
+
+"C:\ti2000\c2000\cgtools\bin\cl2000" -@"Release.lkf"
+
+Build Complete,
+  0 Errors, 0 Warnings, 0 Remarks.
